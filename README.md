@@ -4,6 +4,16 @@
 
 `academic-humanizer-zh` 是一个面向中文学术写作场景的 Codex skill，专用于对论文、研究报告、毕业论文与 MBA 论文文本进行“降 AI”改写。
 
+## Download
+
+- ZIP download: [academic-humanizer-zh-main.zip](https://github.com/yllscar728/academic-humanizer-zh/archive/refs/heads/main.zip)
+- Git clone: `git clone https://github.com/yllscar728/academic-humanizer-zh.git`
+
+## 下载
+
+- ZIP 下载：[academic-humanizer-zh-main.zip](https://github.com/yllscar728/academic-humanizer-zh/archive/refs/heads/main.zip)
+- Git 克隆：`git clone https://github.com/yllscar728/academic-humanizer-zh.git`
+
 本项目的目标，不是对文本进行泛化润色或风格美化，而是在尽可能保留原意、术语、论证结构、事实口径与学术风格的前提下，降低机器生成痕迹，使文本呈现出更自然、更克制、更符合真实作者写作习惯的中文学术表达。
 
 与通用型“去 AI 味”工具不同，`academic-humanizer-zh` 明确服务于强约束文本场景。它强调学术保真，反对为追求“更像人写的”表象而擅自改动研究结论、补造数据来源、弱化专业术语，或将论文文本改写为口语化、营销化、评论化表达。
