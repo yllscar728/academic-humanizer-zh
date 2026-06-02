@@ -1,10 +1,23 @@
 # academic-humanizer-zh
 
+`academic-humanizer-zh` is a Codex skill for reducing AI-generated writing patterns in Chinese academic text while preserving meaning, terminology, argument structure, and academic tone.
+
 `academic-humanizer-zh` 是一个面向中文学术写作场景的 Codex skill，专用于对论文、研究报告、毕业论文与 MBA 论文文本进行“降 AI”改写。
 
 本项目的目标，不是对文本进行泛化润色或风格美化，而是在尽可能保留原意、术语、论证结构、事实口径与学术风格的前提下，降低机器生成痕迹，使文本呈现出更自然、更克制、更符合真实作者写作习惯的中文学术表达。
 
 与通用型“去 AI 味”工具不同，`academic-humanizer-zh` 明确服务于强约束文本场景。它强调学术保真，反对为追求“更像人写的”表象而擅自改动研究结论、补造数据来源、弱化专业术语，或将论文文本改写为口语化、营销化、评论化表达。
+
+## Overview
+
+This project is designed for high-constraint writing scenarios such as theses, dissertations, research reports, and MBA papers in Chinese. Unlike general-purpose text humanizers, it does not optimize for a more casual, expressive, or marketable style. Instead, it focuses on removing recognizable machine-writing patterns while keeping the text academically credible and structurally faithful to the source.
+
+Typical goals include:
+
+- reducing formulaic AI phrasing in Chinese academic writing
+- preserving technical terminology and research conclusions
+- rewriting with minimal necessary intervention
+- avoiding fabricated evidence, citations, or stylistic overcorrection
 
 ## 项目定位
 
@@ -186,4 +199,6 @@ academic-humanizer-zh-skill/
 
 ## 许可证
 
-当前仓库尚未附带独立许可证文件。如需对外分发、二次修改或商业使用，建议后续补充明确的开源许可证说明。
+This repository is released under the [MIT License](./LICENSE).
+
+当前仓库使用 [MIT License](./LICENSE) 开源发布。
